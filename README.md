@@ -70,7 +70,7 @@ This project implements a complete pipeline for real-time vehicle detection, tra
 
 ## Author
 
-Developed as part of a deep learning computer vision project focused on traffic analysis.
+Developed as a group of students as part of a computer vision project focused on traffic analysis.
 
 ---
 
