@@ -63,8 +63,6 @@ This project implements a complete pipeline for real-time vehicle detection, tra
 
 1. Clone this repo and install dependencies.
 2. Download dataset and model from the [Google Drive Link](https://drive.google.com/drive/folders/1HInWKaS5MQC4Wj8It91CM_pW8T58vQgs?usp=sharing).
-3. Run `detect_and_track.py` to perform real-time inference.
-4. (Optional) Use `evaluate_metrics.py` for offline metric evaluation.
 
 ---
 
